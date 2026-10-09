@@ -1,0 +1,14 @@
+# Carpetas y archivos de Eclipse
+bin/
+.settings/
+.apt_generated/
+.classpath
+.project
+
+# Archivos compilados de Java
+*.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+*.log

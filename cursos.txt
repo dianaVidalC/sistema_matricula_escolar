@@ -1,0 +1,6 @@
+CUR-101;Programación Orientada a Objetos II;1;4;6
+CUR-102;Base de Datos Avanzada;1;4;5
+CUR-103;Algoritmos y Estructura de Datos;1;4;6
+CUR-104;Fundamentos de Gestión Empresarial;0;3;2
+CUR-105;Introducción a la Algoritmia;0;6;6
+CUR-106;Matemática I;0;3;4

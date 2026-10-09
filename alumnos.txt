@@ -1,0 +1,6 @@
+ALU-1001;Juan Carlos;Pérez Mendoza;72839401;20;987654321;1
+ALU-1002;Valeria Sofía;Quispe Herrera;74829103;19;981234567;0
+ALU-1003;Mateo Sebastián;Flores Díaz;73481920;21;941235678;2
+ALU-1004;Luis Manuel;Vargas Reyes;67883824;18;995435269;0
+ALU-1005;Ana Lucía;Torres Silva;71234568;22;932145678;1
+ALU-1006;Carlos Daniel;Gutiérrez Rojas;70543219;20;978123456;2
